@@ -26,4 +26,6 @@ Leave all settings as it is (Default). After this click Create to initialize the
 ##3. Install your image
 Start Ubuntu to launch the virtual machine. You will be prompted to select the start-up disk. 
 Use the file icon to open the Optical disc selector and click Add to find your .iso file
-Follow up with the installation leave everything as it is 
+Follow up with the installation leave everything as it is.
+
+
