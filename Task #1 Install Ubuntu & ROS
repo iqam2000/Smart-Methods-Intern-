@@ -1,1 +1,5 @@
 
+#What is ROS?
+The Robot Operating System (ROS) is an open-source framework that helps researchers and developers build and reuse code between robotics applications. ROS is also a global open-source community of engineers, developers and hobbyists who contribute to making robots better, more accessible and available to everyone.
+In Order to downlod ROS you have to install VirtualBox and install Ubuntu on it so you can run ROS. Below you can find all these steps: 
+## 1) Install VirtualBox
