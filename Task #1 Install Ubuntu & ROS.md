@@ -21,4 +21,8 @@ On Mac OS or Windows you can download Ubuntu from here : https://ubuntu.com/down
 Start Ubuntu to launch the virtual machine. You will be prompted to select the start-up disk. Use the file icon to open the Optical disc selector and click Add to find your .iso file Follow up with the installation leave everything as it is.
 
 
+## 4. Install ROS in Ubuntu <br/>
+https://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
+
+
 
