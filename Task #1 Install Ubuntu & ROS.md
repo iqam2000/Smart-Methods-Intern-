@@ -22,7 +22,12 @@ Start Ubuntu to launch the virtual machine. You will be prompted to select the s
 
 
 ## 4. Install ROS in Ubuntu <br/>
-https://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
+- ROS Tutorial: https://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment
+This tutorial walks you through installing ROS and setting up the ROS environment on your computer. Copy and paste the command provided.
+
+finally, you can see we have access to ROS :) !!
+
+![image](https://user-images.githubusercontent.com/74621212/179871207-f0fb7e18-192b-44be-b16c-e380540ba2b0.png)
 
 
 
