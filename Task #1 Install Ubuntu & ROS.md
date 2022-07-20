@@ -15,7 +15,7 @@ Click New to create a new virtual machine. Fill in the appropriate details:
 - Type: Linux
 - Version: Ubuntu (64-bit)
 - Leave all settings as it is (Default).
-- ؤlick Create to initialize the machine!
+- Click Create to initialize the machine!
 
 ## 3. Install your image <br/> 
 On Mac OS or Windows you can download Ubuntu from here : https://ubuntu.com/download/desktop <br/>
